@@ -1,6 +1,8 @@
 # ESTUDO DE PROGRAMAÇÃO - HTML E CSS
 
 ## Detalhes do projeto:
+
+&nbsp;
 1- possibilidade de envio de mensagem por clique no botão/icone do envelope;
 
 
