@@ -1,6 +1,8 @@
-# ESTUDO DE PROGRAMAÇÃO - HTML E CSS
+## ESTUDO DE PROGRAMAÇÃO - HTML E CSS
 
-## Detalhes do projeto:
+####Descrição: Página para contato de visitante ao site
+
+### Detalhes do projeto:
 
 &nbsp;
 1- possibilidade de envio de mensagem por clique no botão/icone do envelope;
