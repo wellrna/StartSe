@@ -19,6 +19,9 @@
 4- acesso a envio de e-mail por clique no endereço de e-mail;
 
 &nbsp;
-5- acesso às redes sociais por clique no icone de cada rede.
+5- acesso às redes sociais por clique no icone de cada rede;
+
+&nbsp;
+6- acesso pelo Github-pages.
 
 &nbsp;
